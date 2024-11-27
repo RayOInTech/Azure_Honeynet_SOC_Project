@@ -1,4 +1,4 @@
-# Implementing-a-SOC-and-Honeynet-in-Azure-
+# Implementing a SOC and Honeynet in Azure 
 
 Introduction:
 ____________
