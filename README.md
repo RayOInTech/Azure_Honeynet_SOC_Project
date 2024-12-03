@@ -2,4 +2,4 @@
 
 Introduction:
 ____________
-I am thrilled to present my latest project, which focuses on building a honeynet in Azure to simulate real-world cyber attacks. This project showcases my skills in Azure security, incident response, and environment hardening
+I am excited to share my latest project: a cutting-edge honeynet built in Azure to simulate and analyze real-world cyberattacks. This initiative highlights my expertise in Azure security and Incident Response, with a focus on advanced techniques for hardening virtual cloud infrastructure against evolving threats.
